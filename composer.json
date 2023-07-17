@@ -25,7 +25,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-pdo": "*",
-        "psr/log": "^2.0|^3.0",
+        "psr/log": "^1.0|^2.0|^3.0",
         "psr/simple-cache": "^2.0|^3.0"
     },
     "require-dev": {
